@@ -56,3 +56,7 @@
   na área de stage
 
 ---
+
+
+### git branch -m <NOME_NOVA_BRANCH>
+  Serve para alterar o nome da branch atual
