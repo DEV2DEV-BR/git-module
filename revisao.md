@@ -27,6 +27,8 @@
   Serve para nós visualizarmos o estado atual
   do nosso repositório local
 
+---
+
 ### git checkout -b <NOME_BRANCH>
   Serve para criarmos uma "cópia" a partir de uma
   determinada branch, para que possamos trabalhar
@@ -48,3 +50,5 @@
 ### git add . 
   Serve adicionarmos todas as mudanças
   na área de stage
+
+---
