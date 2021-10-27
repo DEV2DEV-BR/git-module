@@ -66,3 +66,12 @@
   com um repositório remoto, fazendo assim com que nosso
   repositório esteja "hospedado"
   
+### git push -u origin <NOME_BRANCH>
+  Serve para enviarmos a nossa branch local para o repositório
+  remoto, isso tem que ser feito sempre que uma nova branch é criada.
+
+
+### git push 
+  Serve para enviarmos a nossa branch local para o repositório
+  remoto, mas funciona somente para branchs que já estão no repositório
+  remoto.
