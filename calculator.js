@@ -1,7 +1,7 @@
-function sum() {
-  // novo comentário
+function sum(a, b) {
+  return a + b;
 }
 
-function sub() {
-
+function sub(a, b) {
+  return a - b;
 }
