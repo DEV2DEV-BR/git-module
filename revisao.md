@@ -43,3 +43,8 @@
 
 ### git branch -D <NOME_BRANCH>
   Serve para deletarmos uma branch local
+
+
+### git add . 
+  Serve adicionarmos todas as mudanças
+  na área de stage
