@@ -26,3 +26,20 @@
  
   Serve para nós visualizarmos o estado atual
   do nosso repositório local
+
+### git checkout -b <NOME_BRANCH>
+  Serve para criarmos uma "cópia" a partir de uma
+  determinada branch, para que possamos trabalhar
+  tranquilamente.
+
+### git branch --all
+  Serve para listar todas as branchs que nós temos
+  atualmente no nosso repositório
+
+
+### git checkout <NOME_BRANCH>
+  Serve para navegarmos entre branchs do projeto
+
+
+### git branch -D <NOME_BRANCH>
+  Serve para deletarmos uma branch local
