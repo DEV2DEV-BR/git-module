@@ -26,3 +26,8 @@
  
   Serve para nós visualizarmos o estado atual
   do nosso repositório local
+
+
+### git merge <NOME_DA_BRANCH>
+  Serve para mesclar os códigos da branch ATUAL, com 
+  a branch que tem o nome no comando
