@@ -31,3 +31,28 @@
 ### git merge <NOME_DA_BRANCH>
   Serve para mesclar os códigos da branch ATUAL, com 
   a branch que tem o nome no comando
+---
+
+### git checkout -b <NOME_BRANCH>
+  Serve para criarmos uma "cópia" a partir de uma
+  determinada branch, para que possamos trabalhar
+  tranquilamente.
+
+### git branch --all
+  Serve para listar todas as branchs que nós temos
+  atualmente no nosso repositório
+
+
+### git checkout <NOME_BRANCH>
+  Serve para navegarmos entre branchs do projeto
+
+
+### git branch -D <NOME_BRANCH>
+  Serve para deletarmos uma branch local
+
+
+### git add . 
+  Serve adicionarmos todas as mudanças
+  na área de stage
+
+---
