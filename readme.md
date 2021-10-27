@@ -60,3 +60,9 @@
 
 ### git branch -m <NOME_NOVA_BRANCH>
   Serve para alterar o nome da branch atual
+
+### git remote add origin <NOME_ORIGIN_GITHUB_POR_EXEMPLO>
+  Serve para vincularmos o nosso repositório local
+  com um repositório remoto, fazendo assim com que nosso
+  repositório esteja "hospedado"
+  
