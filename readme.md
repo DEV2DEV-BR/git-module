@@ -75,3 +75,6 @@
   Serve para enviarmos a nossa branch local para o repositório
   remoto, mas funciona somente para branchs que já estão no repositório
   remoto anteriormente.
+  
+### git log
+  Serve para visualizarmos o log de commits e alterações.
