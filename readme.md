@@ -78,3 +78,7 @@
   
 ### git log
   Serve para visualizarmos o log de commits e alterações.
+
+
+### git pull
+  Serve para obter as informações que não estão no seu repositório local.
