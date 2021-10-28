@@ -77,7 +77,9 @@
   Serve para enviarmos a nossa branch local para o repositório
   remoto, mas funciona somente para branchs que já estão no repositório
   remoto anteriormente.
-  
+
+---
+
 ### git log
   Serve para visualizarmos o log de commits e alterações.
 
@@ -85,6 +87,7 @@
 ### git pull
   Serve para obter as informações que não estão no seu repositório local.
 
+---
 
 ### git revert <HEAD~2> || <ID_COMMIT>
   Serve para reverter e criar um novo commit baseado no commit revertido.
@@ -93,7 +96,37 @@
   Serve para resetar os nossos commits, porém perde o histórico dos commits
   posteriores.
 
+---
+
 ### git diff <NOME_ARQUIVO>
   Serve para mostrar a diferença entre o código atual
   e o código anterior, mostrando o que foi removido e/ou
   adicionado.
+
+---
+
+### git stash 
+  Serve para adicionar as mudanças atuais na área de stash,
+  que pode ser aplicado futuramente
+
+## git stash list
+  Serve para listar todos os nossos stashs criados
+
+## git stash apply
+  Serve para aplicar os stash que estão na área de stash
+
+## git stash clear
+  Serve para limpar a pilha de stashs
+
+## git stash push -m "<MENSAGEM>
+  Serve para criar um stash com uma mensagem 
+  personalizada.
+
+## git stash apply <stash@{n}>
+  Serve para aplicar um stash específico,
+  baseado na pilha de stashes
+
+## git stash pop <stash@{n}>
+  Serve para aplicar um stash específico,
+  baseado na pilha de stashes e remover esse
+  stash citado no comando.
