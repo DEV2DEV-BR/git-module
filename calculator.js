@@ -20,7 +20,7 @@ function multiply(a, b) {
 }
 
 function division(a, b) {
-  if (!a || !b) {
+  if (!a && !b) {
     return;
   }
   return a / b;
