@@ -31,6 +31,7 @@
 ### git merge <NOME_DA_BRANCH>
   Serve para mesclar os códigos da branch ATUAL, com 
   a branch que tem o nome no comando
+  
 ---
 
 ### git checkout -b <NOME_BRANCH>
