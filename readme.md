@@ -43,8 +43,10 @@
   atualmente no nosso repositório
 
 
-### git checkout <NOME_BRANCH>
-  Serve para navegarmos entre branchs do projeto
+### git checkout <NOME_BRANCH> || <ID_COMMIT>
+  Serve para navegarmos entre branchs do projeto e caso
+  passarmos o id de um commit, voltamos para o código
+  naquele commit.
 
 
 ### git branch -D <NOME_BRANCH>
