@@ -31,7 +31,7 @@
 ### git merge <NOME_DA_BRANCH>
   Serve para mesclar os códigos da branch ATUAL, com 
   a branch que tem o nome no comando
-  
+
 ---
 
 ### git checkout -b <NOME_BRANCH>
@@ -110,24 +110,24 @@
   Serve para adicionar as mudanças atuais na área de stash,
   que pode ser aplicado futuramente
 
-## git stash list
+### git stash list
   Serve para listar todos os nossos stashs criados
 
-## git stash apply
+### git stash apply
   Serve para aplicar os stash que estão na área de stash
 
-## git stash clear
+### git stash clear
   Serve para limpar a pilha de stashs
 
-## git stash push -m "<MENSAGEM>
+### git stash push -m "<MENSAGEM>
   Serve para criar um stash com uma mensagem 
   personalizada.
 
-## git stash apply <stash@{n}>
+### git stash apply <stash@{n}>
   Serve para aplicar um stash específico,
   baseado na pilha de stashes
 
-## git stash pop <stash@{n}>
+### git stash pop <stash@{n}>
   Serve para aplicar um stash específico,
   baseado na pilha de stashes e remover esse
   stash citado no comando.
