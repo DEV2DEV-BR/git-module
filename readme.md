@@ -92,3 +92,8 @@
 ### git reset <HEAD~3> || <ID_COMMIT>
   Serve para resetar os nossos commits, porém perde o histórico dos commits
   posteriores.
+
+### git diff <NOME_ARQUIVO>
+  Serve para mostrar a diferença entre o código atual
+  e o código anterior, mostrando o que foi removido e/ou
+  adicionado.
