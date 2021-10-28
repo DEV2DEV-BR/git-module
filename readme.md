@@ -84,3 +84,11 @@
 
 ### git pull
   Serve para obter as informações que não estão no seu repositório local.
+
+
+### git revert <HEAD~2> || <ID_COMMIT>
+  Serve para reverter e criar um novo commit baseado no commit revertido.
+
+### git reset <HEAD~3> || <ID_COMMIT>
+  Serve para resetar os nossos commits, porém perde o histórico dos commits
+  posteriores.
